@@ -42,23 +42,23 @@ Here is an example of how to embed images from your sub-folder:
 
 ### Gross Profits
 When comparing the total gross profits across individual movie genres, it seems that in both domestic and foreign box offices, Adventure, Animated and Sci-Fi movies perform the best and return the most profit.
-![](images/Average-Gross.png)
+![](./images/Average-Gross.png)
 
 ### Average Movie Ratings
 In contrast, higher-grossing genres aren't as favorable with audiences as others, and genres that tend to be non-fictional like Documentary, History, and News tend to have higher ratings overall. This is also the case with combinations of the highest rated genres, such as the Biography, Documentary and Documentary, Music genres.
-![](images/Split_ratings.png)
+![](./images/Split_ratings.png)
 
-![](images/Combined_ratings.png)
+![](./images/Combined_ratings.png)
 
 ### Critics vs Audience Ratings
 On Rotten Tomatoes ratings, however, Documentary films aren't rated as favorably as on IMDB. Instead, the highest rated genre is Art House & International, which is used to classify films aimed at niche, smaller demographics rather than the mass of moviegoers. As such, these movies are often praised for unique elements that set them above other broader genres, which might explain their high ratings, particularly among critics.
 
 Another notable observation is that while audience ratings tend to be similar to critics', there are some genres that perform better among audiences than critics, such as Comedy, Horror, and Romance. This may be because audience ratings on Rotten Tomatoes are more based on entertainment value than critics' reviews, which focus more on details and structure within a movie.
-![](images/Rotten_Tomatoes_ratings.png)
+![](./images/Rotten_Tomatoes_ratings.png)
 
 ### Gross Profits vs Average Ratings
 "Successful" and "good" are positive connotations to describe movies, and are often used synchronously. However, it seems there is a positive yet weak correlation between gross profits and average movie ratings. Therefore, we can make the distinction between a "successful" movie and a "good" movie; just because a movie is high-grossing doesn't mean it's good, and vice versa.
-![](images/Gross_vs_ratings.png)
+![](./images/Gross_vs_ratings.png)
 
 ## Conclusions
 
