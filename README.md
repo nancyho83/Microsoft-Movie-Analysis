@@ -1,3 +1,5 @@
+![director_shot.jpeg](./images/director_shot.jpeg)
+
 # An Insight On Success In Movie Production
 
 **Authors**: Nancy Ho
@@ -30,19 +32,9 @@ To create the datasets I used in my analysis, I use SQL queries to join tables f
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
-
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
-
-Here is an example of how to embed images from your sub-folder:
-
 ### Gross Profits
 When comparing the total gross profits across individual movie genres, it seems that in both domestic and foreign box offices, Adventure, Animated and Sci-Fi movies perform the best and return the most profit.
-![Gross profits across individual genres](./images/Average-Gross.png)
+![Gross profits across individual genres](./images/Average_Gross.png)
 
 ### Average Movie Ratings
 In contrast, higher-grossing genres aren't as favorable with audiences as others, and genres that tend to be non-fictional like Documentary, History, and News tend to have higher ratings overall. This is also the case with combinations of the highest rated genres, such as the Biography, Documentary and Documentary, Music genres.
@@ -64,7 +56,7 @@ Another notable observation is that while audience ratings tend to be similar to
 
 Based on the results of the analysis, these are the main recommendations I would make to Microsoft:
 - **Focus on quality over quantity.** While rating may not be a strong determinant of a movie's success, in order to promote growth and set the audience's expectations and anticipation high for your future works, it is important to make movies of high quality that, at the same time, will turn profits. 
-- **Combine genre elements in the premises for your first movies.** For instance, you could produce an sci-fi film based on historical events and include unique elements to keep the audience's attention.
+- **Combine genre elements in the premises for your first movies.** For instance, you could produce a sci-fi film based on historical events and include unique elements to keep the audience's attention.
 - For now, **keep production budgets low while focusing on quality**. Although we didn't have the chance to look at the production budgets of successful movies, in general when starting out as a movie producer, it shouldn't be necessary to utilize a large budget that will be hard to make up later in the box office. One way you can go about doing this is hiring newer, up and coming staff members when producing your first movies.
 
 While this analysis provides a basic foundation on where to start producing movies by showing which movies perform better than others, there are other variables that go into a movie's success beyond the scope of what can be captured by data, and have not been fully explored here. Going forward, it's important to be aware of the limitations set by being a newer movie production company and making decisions while weighing the risks versus returns of venturing into movie production.
@@ -76,16 +68,17 @@ In the future, Microsoft would benefit from further analysis of other aspects of
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](/microsoft-movie-analysis-code.ipynb) or our [presentation](/DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](/microsoft-movie-analysis-code.ipynb) or our [presentation](/Microsoft_Movie_Analysis_Presentation.pdf).
 
-For any additional questions, please contact **Nancy Ho** at [nancyho83@yahoo.com].
+For any additional questions, please contact **Nancy Ho** at [nancyho83@yahoo.com](mailto:nancyho83@yahoo.com)
+.
 
 ## Repository Structure
 
 ```
-├── README.md                             <- The top-level README for reviewers of this project
-├── microsoft-movie-analysis-code.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── Movie_Analysis_Presentation.pdf       <- PDF version of project presentation
-├── data                                  <- Both sourced externally and generated from code
-└── images                                <- Both sourced externally and generated from code
+├── README.md                             
+├── microsoft-movie-analysis-code.ipynb  
+├── Microsoft_Movie_Analysis_Presentation.pdf      
+├── data                                  
+└── images                             
 ```
