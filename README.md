@@ -68,7 +68,7 @@ In the future, Microsoft would benefit from further analysis of other aspects of
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](/microsoft-movie-analysis-code.ipynb) or our [presentation](/Microsoft_Movie_Analysis_Presentation.pdf).
+Please review the full analysis in the [Jupyter Notebook](/microsoft-movie-analysis-code.ipynb) or the [presentation](/Microsoft_Movie_Analysis_Presentation.pdf).
 
 For any additional questions, please contact **Nancy Ho** at [nancyho83@yahoo.com](mailto:nancyho83@yahoo.com)
 .
